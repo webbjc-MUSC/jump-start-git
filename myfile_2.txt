@@ -1,1 +1,1 @@
-First line of text ... second file.
+First line of text ... second file (with these additional words added).
